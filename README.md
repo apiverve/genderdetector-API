@@ -76,7 +76,8 @@ api.execute(query, function (error, data) {
     "country": "US",
     "detected": true,
     "gender": "male"
-  }
+  },
+  "code": 200
 }
 ```
 
